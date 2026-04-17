@@ -26,6 +26,7 @@
 - [🔬 About The Lab](#-about-the-lab)
 - [📅 Phase 0: 开发环境与工具](#-phase-0-开发环境与工具准备)
 - [📚 Phase 1: 数学与深度学习基础](#-phase-1-数学与深度学习基础)
+- [🎓 Phase 1.5: 科研能力进阶](#-phase-15-科研能力进阶)
 - [🚀 Phase 2: 实验室研究方向入门路线](#-phase-2-实验室研究方向入门路线)
     - [🏠 Direction A: Recommender Systems](#-direction-a-recommender-systems-推荐系统)
     - [🤖 Direction B: Large Language Models](#-direction-b-large-language-models-大模型)
@@ -93,6 +94,42 @@
 * **沈向洋: You are how you read**: [视频](https://www.bilibili.com/video/BV1df4y1m74k)
 * **李沐: 论文精读系列**: [视频列表](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=418476)
 * **如何做好 Presentation**: [知乎博客](https://www.zhihu.com/question/60042037/answer/3601970421)
+
+---
+
+## 🎓 Phase 1.5: 科研能力进阶
+
+> **Goal:** 从“会学习、会实现”进一步走向“会定义问题、推动项目、清晰表达”的研究者。
+>
+> **出处:** 本节部分内容参考自 [pengsida/learning_research](https://github.com/pengsida/learning_research)。
+
+### 如何努力成为一个 Top Ph.D. Student
+
+核心的能力：Top Ph.D. Student 懂得设定一个长远的科研目标。这个科研目标具有重要的科学价值和实际价值（在实际应用中寻找真正有价值的科学问题）。然后根据这个科研目标细化科研的 Roadmap。博士期间做的几篇论文都围绕着解决这个科研目标，并且做的论文能够清晰地展示出自己沿着 Roadmap 的科研进展，论文 Demo 要尽量很酷（例子：[博士生的楷模：Sebastian Starke](https://pengsida.notion.site/Sebastian-Starke-1713fe292ff1808eb33be93ea2d79ad9?pvs=4)）。
+
+在实际做科研过程中，Ph.D. Student 需要有五方面的能力：寻找重要的科研问题、提出解决方案、做实验、写论文、做 Presentation。下面是一些具体的建议。
+
+1. [如何入门 3D Vision 的科研](./getting_started_in_research.md)
+2. [如何培养自己的科研能力（寻找科研问题、想 Idea、做实验、与导师 Meet）](./getting_advanced_in_research.md)
+3. [如何做 Research Project（博士生应该具有的能力）](https://pengsida.notion.site/research-project-b43507ef26d044bd888ac29f4736e116)
+4. 论文写作
+   - [如何练习写论文](https://pengsida.notion.site/c13c7e52aab64c1a8e3576b97fcb9851)
+   - [论文写作模板](https://pengsida.notion.site/c1a22465a0fa4b15a12985223916048e)（实验室内部觉得很好用）
+   - [高水平科研工作者的写作经验](https://pengsida.notion.site/74aef88b9187439fa4e301704f6eb49a)
+5. [怎么 Rebuttal](https://pengsida.notion.site/rebuttal-af99ce47103e4917b6a5bd1fd4b3c022)
+6. [怎么做学术报告 Slides](https://pengsida.notion.site/slides-810f02670691444f8c94cc3d5b76dcbc)
+
+#### Slides
+
+这些建议的部分内容总结在了以下 Slides 和视频中：
+
+1. 《GAMES003：科研基本素养》版本：
+   - [《科研流程概述与领域视野建立》Slides](https://pengsida.net/games003/GAMES003_files/week_1.pdf) 和 [课程视频](https://www.bilibili.com/video/BV1RitTezEa9?p=1)
+   - [《技术方案的设计方法》Slides](https://pengsida.net/games003/GAMES003_files/week_3.pdf) 和 [课程视频](https://www.bilibili.com/video/BV1RitTezEa9?p=3)
+   - [《面向实验结果的方案优化》Slides](https://pengsida.net/games003/GAMES003_files/week_5.pdf) 和 [课程视频](https://www.bilibili.com/video/BV1RitTezEa9?p=5)
+2. 《learning research》版本：[Slides](https://pengsida.net/files/learning_research_v4.pdf) 和 [Talk Video](https://www.bilibili.com/video/BV1DA4m1V7D3/)
+3. 着重讨论如何建立领域视野和选择科研课题的版本（2025 年 8 月 12 日）：[Slides](https://pengsida.net/files/research_topic_selection.pdf)
+4. 《CCF 优博是怎么炼成的》：[Slides](https://pengsida.net/files/CCF_Talk.pdf)
 
 ---
 
